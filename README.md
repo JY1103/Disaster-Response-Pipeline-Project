@@ -40,7 +40,7 @@ This code is for Data Engineering course of Data Scientist Nanodegree on Udacity
     `python run.py`
 * Access the web app in this [link](https://view6914b2f4-3001.udacity-student-workspaces.com).
 
-### Limitation
+### 5. Limitation
 It can be seen from below two graphs that the data set is very imbalanced. For some message categories, e.g, child, offers and shop, etc, there are not much records in the dataset. This may lead to the problem of overfitting. We should focus more on precision when training the model. Also, we can try undersample or oversample skills to make sample more balanced.
 ![graph2](https://github.com/JY1103/Disaster-Response-Pipeline-Project/blob/master/img/graph2.png)
 ![graph3](https://github.com/JY1103/Disaster-Response-Pipeline-Project/blob/master/img/graph3.png)
